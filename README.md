@@ -1,13 +1,13 @@
-## BlogHub- Advanced Content Platform with Community & Analytics
+# BlogHub- Advanced Content Platform with Community & Analytics
 
 Content creators and readers face significant challenges on traditional blogging platforms. Writers lack deep audience insights, struggle to build engaged communities, and have limited monetization options. Readers find it difficult to track their reading habits, discover relevant communities, and access premium content flexibly.
 
 This hackathon challenges participants to build BlogHub Pro, a centralized, web-based blogging platform that empowers writers with data-driven analytics, fosters topic-based communities, implements subscription-based content access, and provides users with GitHub-style activity tracking for reading and writing habits.
 
-# Objective:
+## Objective:
 Develop a scalable, secure, and user-friendly application that enables writers to publish content with rich formatting, engage readers through communities, monetize premium content through subscriptions, and gain actionable insights through comprehensive analytics.
 
-# Key Features to Implement:
+## Key Features to Implement:
 User Management with JWT Authentication Role-based access (Writer, Reader)
 
 Secure registration and login using JWT tokens
@@ -109,9 +109,9 @@ Share posts via social media
 
 Reading time estimator
 
-# Technology Stack:
+## Technology Stack:
 
-# Frontend:
+### Frontend:
 
 HTML, CSS, JavaScript
 
@@ -127,7 +127,7 @@ Chart.js for analytics visualizations
 
 GitHub-style contribution calendar library
 
-# Backend:
+### Backend:
 
 Java
 
@@ -139,7 +139,7 @@ Spring Data JPA
 
 WebSocket for real-time community features
 
-# Database:
+### Database:
 
 PostgreSQL
 
@@ -151,7 +151,7 @@ Maven (dependency management)
 
 Stripe for payments
 
-# Expected Outcomes:
+## Expected Outcomes:
 
 Fully functional blogging platform with dual landing pages (reader discovery + writer creation)
 
@@ -195,7 +195,7 @@ Follow MVC or layered architecture (Controller-Service-Repository)
 
 Ensure data validation and input sanitization
 
-PostgreSQL/MySQL must be used as the database
+PostgreSQL must be used as the database
 
 GitHub repository must include proper commit history
 
