@@ -1,6 +1,6 @@
-# BlogHub- Advanced Content Platform with Community & Analytics
+# BlogHub - Advanced Content Platform with Community & Analytics
 
-Content creators and readers face significant challenges on traditional blogging platforms. Writers lack deep audience insights, struggle to build engaged communities, and have limited monetization options. Readers find it difficult to track their reading habits, discover relevant communities, and access premium content flexibly.
+  Content creators and readers face significant challenges on traditional blogging platforms. Writers lack deep audience insights, struggle to build engaged communities, and have limited monetization options. Readers find it difficult to track their reading habits, discover relevant communities, and access premium content flexibly.
 
 This hackathon challenges participants to build BlogHub Pro, a centralized, web-based blogging platform that empowers writers with data-driven analytics, fosters topic-based communities, implements subscription-based content access, and provides users with GitHub-style activity tracking for reading and writing habits.
 
